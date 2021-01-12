@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.m-fr.cz",
     "slug": "m-fr",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 665,
-    "timeDay": 631,
-    "timeWeek": 601,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 662,
+    "timeDay": 608,
+    "timeWeek": 604,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2021-01-02": 33
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 168,
-    "timeWeek": 89,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "time": 73,
+    "timeDay": 34,
+    "timeWeek": 90,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {}
   }
 ]
