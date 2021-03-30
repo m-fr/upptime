@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 732,
-    "timeDay": 596,
-    "timeWeek": 887,
-    "timeMonth": 734,
-    "timeYear": 732,
+    "time": 730,
+    "timeDay": 588,
+    "timeWeek": 830,
+    "timeMonth": 729,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2021-01-02": 33
     }
@@ -25,16 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/m-fr.github.io",
     "slug": "m-fr-github",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 114,
-    "timeDay": 157,
-    "timeWeek": 127,
-    "timeMonth": 137,
+    "timeDay": 98,
+    "timeWeek": 122,
+    "timeMonth": 136,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-02": 33
+    }
   }
 ]
