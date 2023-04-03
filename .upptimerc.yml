@@ -9,9 +9,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.m-fr.cz
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/m-fr/upptime/master/mfr-upptime.svg
   name: Upptime
   introTitle: "Monitoring of **m-fr** site done by **Upptime**."
@@ -20,7 +20,7 @@ status-website:
     - title: Site
       href: https://www.m-fr.cz
     - title: Status
-      href: /upptime
+      href: /
     - title: GitHub
       href: https://github.com/m-fr
 
